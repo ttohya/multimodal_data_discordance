@@ -63,7 +63,7 @@ All source data must be downloaded from [PhysioNet](https://physionet.org/) with
 | MIMIC-CXR-JPG | 2.1 | https://physionet.org/content/mimic-cxr-jpg/ |
 | MIMIC-IV-ECG | 1.0 | https://physionet.org/content/mimic-iv-ecg-diagnostic-electrocardiogram-matched-subset/ |
 | MIMIC-IV-Echo | 0.1 | https://physionet.org/content/mimic-iv-echo/ |
-| MIMIC-IV-Echo-Note | - | https://physionet.org/content/mimic-iv-echo-note/ |
+| MIMIC-IV-Echo-Note | - | - |
 | MIMIC-IV-Note | 2.2 | https://physionet.org/content/mimic-iv-note/ |
 
 ## Requirements
